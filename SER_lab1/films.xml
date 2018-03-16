@@ -1,0 +1,35 @@
+
+
+<films>
+    <film>
+        <titre>Charlotte</titre>
+        <synopsis>Gainsbourg<synopsis/>
+        <duree>FEMININ<duree/>
+        <duree>blalbalbalb<duree/>
+        <critiques>
+                <critique>
+                    <texte></texte>
+                    <note></note>
+                </critique>
+        <critiques/>
+        <dateDeces><dateDeces/>
+    </film>
+    <film>
+        <titre>Charlotte</titre>
+        <synopsis>Gainsbourg<synopsis/>
+        <duree>FEMININ<duree/>
+        <duree>blalbalbalb<duree/>
+        <critiques><critiques/>
+        <dateDeces><dateDeces/>
+    </film>
+</films>
+
+
+        id <Id_WFC>: Long
+- titre: String
+- synopsis: String
+- duree: int
+- photo: String
+
+titre, synopsis, durée, critiques (texte et note), genres, mots-clés, langages et un lien sur
+une image (photo)

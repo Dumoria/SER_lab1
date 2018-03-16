@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!DOCTYPE livres SYSTEM "acteurs.dtd">
+<acteurs>
+	<acteur>
+		<nom>Charlotte</nom>
+		<nomNaissance>Gainsbourg<nomNaissance/>
+		<sexe>FEMININ<sexe/>
+		<biographie>blalbalbalb<biographie/>
+		<dateNaissance><dateNaissance/>
+		<dateDeces><dateDeces/>
+	</acteur>
+	<acteur>
+		<nom>Charlotte</nom>
+		<nomNaissance>Gainsbourg<nomNaissance/>
+		<sexe>FEMININ<sexe/>
+		<biographie>blalbalbalb<biographie/>
+		<dateNaissance><dateNaissance/>
+		<dateDeces><dateDeces/>
+	</acteur>
+</acteurs>
+
